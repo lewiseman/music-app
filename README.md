@@ -10,4 +10,4 @@ Still missing some functionalities since its not fully complete
 
 ## Screenshots
 
-| ![Image](https://github.com/lewiseman/music-app/blob/master/assets/screenshots/flutter_01.png) | ![Image](https://github.com/lewiseman/music-app/blob/master/assets/screenshots/flutter_01.png) |
+| ![Image](https://github.com/lewiseman/music-app/blob/master/assets/screenshots/flutter_01.png) | 
